@@ -1,3 +1,5 @@
+Aplikacja została napisana w technologi JavaFX oraz w css do stylowania jej. Jest to proste GUI z podświetlaniem przycisków kiedy na nie najedziemy lub klikniemy i zmienianem scen.
+
 ![4](https://user-images.githubusercontent.com/78592028/211404412-71ef7282-4a6b-48af-8d54-1d5c9b03d48a.png)
 ![1](https://user-images.githubusercontent.com/78592028/211404415-d6a1f873-2a4b-4e19-b236-44b130736cfe.png)
 ![2](https://user-images.githubusercontent.com/78592028/211404417-116ecc2d-0311-43a3-8cf2-8b149d05ca94.png)
